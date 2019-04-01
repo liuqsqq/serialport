@@ -71,7 +71,7 @@
     "url": "git://github.com/node-serialport/node-serialport.git"
   },
   "scripts": {
-    "install": "prebuild-install --tag-prefix @serialport/bindings@ || node-gyp rebuild",
+    "install": "",
     "lint": "cc --verbose",
     "prebuild": "prebuild --all --force --strip --verbose --tag-prefix @serialport/bindings@",
     "rebuild": "node-gyp rebuild"
