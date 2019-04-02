@@ -70,11 +70,6 @@
     "type": "git",
     "url": "git://github.com/node-serialport/node-serialport.git"
   },
-  "scripts": {
-    "install": "",
-    "lint": "cc --verbose",
-    "prebuild": "prebuild --all --force --strip --verbose --tag-prefix @serialport/bindings@",
-    "rebuild": "node-gyp rebuild"
-  },
+  "scripts": {},
   "version": "2.0.7"
 }
