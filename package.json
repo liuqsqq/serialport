@@ -1,0 +1,15 @@
+{
+  "name": "serialport",
+  "version": "1.0.0",
+  "description": "compiled serialport",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-serialport"
+  ],
+  "author": "liuqs",
+  "license": "MIT",
+  "dependencies": {}
+}
