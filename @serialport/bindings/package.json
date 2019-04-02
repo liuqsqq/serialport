@@ -38,19 +38,10 @@
     ],
     "linelength": "120"
   },
-  "dependencies": {
-    "@serialport/binding-abstract": "^2.0.4",
-    "@serialport/parser-readline": "^2.0.2",
-    "bindings": "^1.3.0",
-    "debug": "^4.1.0",
-    "nan": "^2.12.1",
-    "prebuild-install": "^5.2.1"
-  },
+  "dependencies": {},
   "deprecated": false,
   "description": "The `Binding` is how Node-SerialPort talks to the underlying system. By default, we auto detect Windows, Linux and OS X, and load the appropriate module for your system. You can assign `SerialPort.Binding` to any binding you like. Find more by searching [\"serialport-binding\" at npm](https://www.npmjs.com/search?q=serialport-binding).",
-  "devDependencies": {
-    "@serialport/binding-mock": "^2.0.4"
-  },
+  "devDependencies": {},
   "engines": {
     "node": ">=6.0.0"
   },
